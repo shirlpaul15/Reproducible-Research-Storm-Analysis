@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/119813/f3b2a299e2c24a2c9766ae74a7ce57f6
+url: http://rpubs.com/shirl15/119813
+when: 1445575022.45038
